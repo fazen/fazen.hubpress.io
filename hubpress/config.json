@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "fazen",
-    "repositoryName": "fazen.hubpress.io",
-    "branch": "master"
+    "repositoryName": "fazen.github.io/sblog",
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
